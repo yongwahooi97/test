@@ -13,7 +13,7 @@ DESCRIPTION = 'My first Python package'
 # Setting up
 setup(
        # the name must match the folder name 'verysimplemodule'
-        name="verysimplemoduleyw", 
+        name="test", 
         version=VERSION,
         author="Yong Wah",
         author_email="yongwahooi97@gmail.com",
